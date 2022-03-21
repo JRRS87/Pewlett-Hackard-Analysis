@@ -1,7 +1,6 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of Project
-
 The purpose of this analysis is to conduct a Database analysis for Pewlett Hackard with detailed information on the number of 
 future retirees from all departments currently working at the company to be able to prepare a plan to hire new staff and also 
 to prepare a mentorship initiative. 
@@ -17,7 +16,6 @@ In order to ensure a smooth transition this analysis focuses on the following:
 - Determine the number of qualified, retirement-ready employees to mentor the next generation grouped by title and department.
 
 ## Background
-
 The data is gathered in six CSV files and the analysis is performed using relational databases. In this analysis I am using:
 
 - QuickDBD to create quick database design for better visualization,
@@ -41,7 +39,6 @@ Of those eligible employees, there are 402 Engineers, 392 Senior Staff, 332 Staf
 and 56 Assistant Engineers.
 
 ## Summary
-
 At the moment at Pewlett Hackard, 64% of their employees are getting ready for retirement or being redirected to their mentorship 
 initiatives, which will mean that they are likely going to need an extensive hiring process in the upcoming years. Since a significant
 amount of future retirees hold Senior positions the mentorship program should provide a capacitation buffer for the extensive 
