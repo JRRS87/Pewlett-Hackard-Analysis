@@ -24,10 +24,10 @@ The data is gathered in six CSV files and the analysis is performed using relati
 
 ## Results
 Four major points
-1.-There are duplicate entries because they have switched titles over the years.
-2.- The columns hold the most recent title.
-3.- Employee number is filtered in order
-4.- The from date and to date is done only by one year.
+- There are duplicate entries because they have switched titles over the years.
+- The columns hold the most recent title.
+- Employee number is filtered in order
+- The from date and to date is done only by one year.
 
 There are 90,398 employees retiring
 
