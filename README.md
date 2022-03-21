@@ -26,6 +26,12 @@ The data is gathered in six CSV files and the analysis is performed using relati
 
 ## Results
 
+Four major points
+1.-There are duplicate entries because they have switched titles over the years.
+2.- The columns hold the most recent title.
+3.- Employee number is filtered in order
+4.- The from date and to date is done only by one year.
+
 There are 90,398 employees retiring
 
 Of those employees , there are 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique 
