@@ -25,7 +25,6 @@ The data is gathered in six CSV files and the analysis is performed using relati
 - pgAdmin a GUI, using SQL Language to explore, manipulate and extract the data.
 
 ## Results
-
 Four major points
 1.-There are duplicate entries because they have switched titles over the years.
 2.- The columns hold the most recent title.
